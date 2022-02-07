@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "nx-angular": "apps/nx-angular",
+    "nx-angular-e2e": "apps/nx-angular-e2e"
+  }
+}
